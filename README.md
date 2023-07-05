@@ -6,5 +6,7 @@ To enable them go to "Settings > System > Multiple users.
 - **(Google)** apps requiring login to my Google account and Google Services - Fingerprint protected
 ## Apps
 ### Main Profile
-- Appstore:
-  - [Obtainium](https://github.com/ImranR98/Obtainium)
+| App | Use Case |
+|-----|----------|
+| [Obtainium](https://github.com/ImranR98/Obtainium) | App Downloader |
+-
