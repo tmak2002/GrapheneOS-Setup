@@ -5,3 +5,4 @@ To enable them go to "Settings > System > Multiple users.
 - **(Main)** every day work profile only Privacy Android apps - Fingerprint protected
 - **(Google)** apps requiring login to my Google account and Google Services - Fingerprint protected
 ## Apps
+### Main Profile
