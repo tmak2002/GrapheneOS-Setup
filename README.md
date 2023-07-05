@@ -9,4 +9,9 @@ To enable them go to "Settings > System > Multiple users.
 | App | Use Case |
 |-----|----------|
 | [Obtainium](https://github.com/ImranR98/Obtainium) | App Downloader |
--
+| [Aegis](https://github.com/beemdevelopment/Aegis) | OTP Generator |
+| [DAVx⁵](https://github.com/bitfireAT/davx5-ose) | Sync |
+| [Element](https://github.com/vector-im/element-android) | Matrix Client |
+| [Etar](https://github.com/Etar-Group/Etar-Calendar) | Calendar |
+| [K-9 Mail](https://github.com/thundernest/k-9) | Mail Client |
+
