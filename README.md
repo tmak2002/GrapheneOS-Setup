@@ -15,3 +15,4 @@ To enable them go to "Settings > System > Multiple users.
 | [Etar](https://github.com/Etar-Group/Etar-Calendar) | Calendar |
 | [K-9 Mail](https://github.com/thundernest/k-9) | Mail Client |
 | [KeePassDX](https://github.com/Kunzisoft/KeePassDX) | Password Manager |
+| [Molly-FOSS](https://github.com/mollyim/mollyim-android) | Signal Fork |
