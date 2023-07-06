@@ -14,4 +14,4 @@ To enable them go to "Settings > System > Multiple users.
 | [Element](https://github.com/vector-im/element-android) | Matrix Client |
 | [Etar](https://github.com/Etar-Group/Etar-Calendar) | Calendar |
 | [K-9 Mail](https://github.com/thundernest/k-9) | Mail Client |
-
+| [KeePassDX](https://github.com/Kunzisoft/KeePassDX) | Password Manager |
