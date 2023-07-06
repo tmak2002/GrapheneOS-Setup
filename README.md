@@ -16,3 +16,13 @@ To enable them go to "Settings > System > Multiple users.
 | [K-9 Mail](https://github.com/thundernest/k-9) | Mail Client |
 | [KeePassDX](https://github.com/Kunzisoft/KeePassDX) | Password Manager |
 | [Molly-FOSS](https://github.com/mollyim/mollyim-android) | Signal Fork |
+| [Syncthing](https://github.com/syncthing/syncthing-android) | Sync |
+| [Organic Maps](https://github.com/organicmaps/organicmaps) | Maps |
+### Google Profil
+| App | Use Case |
+|-----|----------|
+| [Clash Royale](https://play.google.com/store/apps/details?id=com.supercell.clashroyale) | Game |
+| [N26](https://play.google.com/store/apps/details?id=de.number26.android) | Banking |
+| [PayPal](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile) | Banking |
+| [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) | Music |
+| [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) | Chat |
